@@ -14,6 +14,12 @@ This dataset displays the geographical distribution of ports in the United Kingd
 This dataset contains the non-spatial statistics for our analysis including detailed information about the volume of maritime traffic in UK ports, enabling us to analyze the correlation with harbor sizes.
 
 
+## Steps to run the code
+1. Create an environment from environment.yml
+2. Activate environment
+3. Run the Jupyter Notebook
+
+
 ## References
 <p><a href="https://github.com/FrancescaPontin/GEOG5995">[2]</a>GEOG5995M course materials</p>
 <p><a href="https://www.diva-gis.org/datadown">[1]</a>UK Map data</p>
